@@ -1,0 +1,19 @@
+Programacion
+
+Hemos elegido este formato porque esta relacionado con la asignatura de entornos
+
+
+Entornos de desarrollo
+
+Hemos elegido este formato porque teniamos que presentar el diagrama de flujo con el enunciado y hemos considerado que el pdf agruparia bien todo el formato
+
+
+Lenguaje de marcas
+
+Hemos elegido este formato porque estamos trabajando con css y html
+
+
+
+Base De Datos 
+
+Hemos elegido este formato porque hemos estado trabajando en ejercicios relacionales y hemos considerado que a traves de un formato txt se pueden mostrar a traves de fotos mejor el contenido

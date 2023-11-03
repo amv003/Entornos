@@ -1,0 +1,8 @@
+﻿.Prestador (pld,nomb,disp)
+        aportar (pld de prestador, cont, prld de préstamo)
+
+
+.Prestamos (prld, dld de deudor, imp, plazo, interes finalidad)
+
+
+.Deudor (dld, nombre, riesgo)
